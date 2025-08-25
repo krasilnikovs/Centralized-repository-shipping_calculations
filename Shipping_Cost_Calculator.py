@@ -1,4 +1,5 @@
- # Here is a new update by krasilnikovs
+# Here is a new update by krasilnikovs
+# Here is another update by krasilnikovs
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
